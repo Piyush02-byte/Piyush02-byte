@@ -26,7 +26,7 @@ A placement readiness prediction system built using machine learning.
 
 👉 Check the repository below 👇
 
----
+          Piyush02-byte/student-placement-readiness
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, C, C++
